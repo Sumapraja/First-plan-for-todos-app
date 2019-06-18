@@ -4,4 +4,4 @@ This is my plan for todos app, so let's see what we got in store. ToDo app is an
 
 ![ToDo-App](ToDo-App.png)
 
-Hope it all goes well.
+Hope it all goes well. <3
